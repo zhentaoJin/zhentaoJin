@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi,here <img src="https://www.duitang.com/blog/?id=967138965" width="30px">
+### Hi,here <img src="https://c-ssl.duitang.com/uploads/item/201807/30/20180730233955_5us55.thumb.1000_0.gif" width="30px">
 <br/>
 
 I'm [zhentaoJin/zhentaoJin], a **[back-end developer](https://github.com/zhentaoJin).
 <br/>
 <br/>
 
-<img align="right" alt="coding User Image" src="https://www.duitang.com/blog/?id=967138965" height="180" />
+<img align="right" alt="coding User Image" src="https://c-ssl.duitang.com/uploads/item/201807/30/20180730233955_5us55.thumb.1000_0.gif" height="180" />
 
 - 🗼 Living in **GuangDong, guangzhou**
 
