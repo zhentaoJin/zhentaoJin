@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi,here <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
+### Hi,here <img src="https://www.duitang.com/blog/?id=967138965" width="30px">
 <br/>
 
 I'm [zhentaoJin/zhentaoJin], a **[back-end developer](https://github.com/zhentaoJin).
