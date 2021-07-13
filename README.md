@@ -1,7 +1,7 @@
 ### Hi,here <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
 <br/>
 
-I'm [zhentaoJin], a **[back-end developer](https://github.com/zhentaoJin).
+I'm [zhentaoJin], a [back-end developer](https://github.com/zhentaoJin).
 <br/>
 <br/>
 
