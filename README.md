@@ -21,7 +21,7 @@ I'm [zhentaoJin/zhentaoJin], a **[back-end developer](https://github.com/zhentao
 <br/>
 <br/>
 
-<img align="right" alt="coding User Image" src="http://img.soogif.com/txEZdH90UDIxKQdQrgvidEmr9Rz0suRZ.gif" height="180" />
+<img align="right" alt="coding User Image" src="https://www.duitang.com/blog/?id=967138965" height="180" />
 
 - 🗼 Living in **GuangDong, guangzhou**
 
