@@ -7,8 +7,6 @@ I'm [zhentaoJin], a **[back-end developer](https://github.com/zhentaoJin).
 
 - 🗼 Living in **GuangDong, guangzhou**
 
-- 👨‍💻 Currently Working at VIPS
-
 - 👍 Music and  Cat  🎵 🐱
 
 - 👨 like to make friends 👬
