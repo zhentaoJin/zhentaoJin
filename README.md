@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi here 👋
 
 <!--
 **zhentaoJin/zhentaoJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,15 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### Hi,here <img src="https://c-ssl.duitang.com/uploads/item/201807/30/20180730233955_5us55.thumb.1000_0.gif" width="30px">
-<br/>
-
 I'm [zhentaoJin/zhentaoJin], a **[back-end developer](https://github.com/zhentaoJin).
 <br/>
 <br/>
-
-<img align="right" alt="coding User Image" src="https://c-ssl.duitang.com/uploads/item/201807/30/20180730233955_5us55.thumb.1000_0.gif" height="180" />
 
 - 🗼 Living in **GuangDong, guangzhou**
 
